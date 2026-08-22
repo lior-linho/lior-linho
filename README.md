@@ -6,41 +6,64 @@
 
 ### 💻 Building Software
 
-<p>
-  <a href="https://github.com/LuxLinho/geo-sales-automation-mvp">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=LuxLinho&repo=geo-sales-automation-mvp&theme=transparent&hide_border=true" />
-  </a>
-  <a href="https://github.com/LuxLinho/OpenMed">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=LuxLinho&repo=OpenMed&theme=transparent&hide_border=true" />
-  </a>
-</p>
+#### 🤖 [Geo Sales Automation MVP](https://github.com/LuxLinho/geo-sales-automation-mvp)
 
-<sub>
-<b>Geo Sales Automation MVP</b> · Independent project · Product → Architecture → Full Stack → Local AI<br>
-<b>OpenMed</b> · System setup · 3D modeling · Simulation foundation
-</sub>
+**Independent · AI · Full Stack · Local LLM**
+
+An AI-powered sales automation system designed and built independently from the ground up.
+
+`Product Design` `System Architecture` `Frontend` `Backend` `AI Integration`
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Project-181717?logo=github\&logoColor=white)](https://github.com/LuxLinho/geo-sales-automation-mvp)
+
+---
+
+#### 🩺 [OpenMed](https://github.com/LuxLinho/OpenMed)
+
+**Medical Simulation · 3D · Interactive Systems**
+
+An interactive medical simulation platform combining 3D environments with medical visualization.
+
+`System Setup` `3D Modeling` `Simulation Foundation`
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Project-181717?logo=github\&logoColor=white)](https://github.com/LuxLinho/OpenMed)
 
 <br>
 
 ### 🌌 Exploring the Cosmos
 
-<p>
-  <a href="https://github.com/LuxLinho/gaia-lamost-galactic-archaeology">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=LuxLinho&repo=gaia-lamost-galactic-archaeology&theme=transparent&hide_border=true" />
-  </a>
-  <a href="https://github.com/LuxLinho/gravity-from-orbits-to-spacetime">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=LuxLinho&repo=gravity-from-orbits-to-spacetime&theme=transparent&hide_border=true" />
-  </a>
-</p>
+#### 🌠 [Gaia–LAMOST Galactic Archaeology](https://github.com/LuxLinho/gaia-lamost-galactic-archaeology)
 
-<p>
-  <a href="https://github.com/LuxLinho/gaia-tidal-tail-dynamics">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=LuxLinho&repo=gaia-tidal-tail-dynamics&theme=transparent&hide_border=true" />
-  </a>
-</p>
+**Independent Research · Galactic Archaeology**
 
-<sub>
-Gaia · Stellar Dynamics · Galactic Archaeology · Orbital Mechanics · Gravity · Spacetime · Cosmology
-</sub>
+Exploring the Milky Way through stellar chemistry, kinematics, and orbital dynamics.
+
+`Gaia` `LAMOST` `Chemo-dynamics` `Stellar Orbits`
+
+[![Research](https://img.shields.io/badge/GitHub-View_Research-181717?logo=github\&logoColor=white)](https://github.com/LuxLinho/gaia-lamost-galactic-archaeology)
+
+---
+
+#### 🕳️ [Gravity: From Orbits to Spacetime](https://github.com/LuxLinho/gravity-from-orbits-to-spacetime)
+
+**Independent Physics · Gravity & Spacetime**
+
+From Newtonian orbital mechanics to Lagrangian dynamics, relativity, and curved spacetime.
+
+`Newtonian Mechanics` → `Lagrangian Mechanics` → `SR` → `GR`
+
+[![Research](https://img.shields.io/badge/GitHub-View_Research-181717?logo=github\&logoColor=white)](https://github.com/LuxLinho/gravity-from-orbits-to-spacetime)
+
+---
+
+#### ✨ [Gaia Tidal Tail Dynamics](https://github.com/LuxLinho/gaia-tidal-tail-dynamics)
+
+**Independent Research · Stellar Dynamics**
+
+Investigating tidal-tail candidates around stellar clusters and their dynamical structure with Gaia data.
+
+`Gaia` `Star Clusters` `Tidal Tails` `Stellar Dynamics`
+
+[![Research](https://img.shields.io/badge/GitHub-View_Research-181717?logo=github\&logoColor=white)](https://github.com/LuxLinho/gaia-tidal-tail-dynamics)
 
 
